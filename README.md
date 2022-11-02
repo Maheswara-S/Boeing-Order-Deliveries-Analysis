@@ -10,7 +10,7 @@ Presentation Video Link: https://drive.google.com/drive/folders/1WoYNrKr64UoaNfy
 
 # Boeing Order Deliveries Analysis
 
-This is a project of exploring Boeing order and deliveries performance over the year, to explore and find out on what aspect should boing improve their performance.
+This is a project of exploring Boeing order and deliveries performance over the year, to explore and find out on what aspect should boing improve their performance. This project is done mainly using Pandas and numpy for data processing, for visualization Seaborn and Matplotlib are used.
 
 Based on my analysis, it can be concluded that:
 
